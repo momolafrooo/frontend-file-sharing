@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# File Sharing With React JS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple file sharing app that uses React JS.
 
 ## Available Scripts
 
